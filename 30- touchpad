@@ -1,0 +1,9 @@
+Section "InputClass"
+	Identifier	"Elan Touchpad"
+	Option		"libinput"
+	Option		"NaturalScrolling"	"true"
+	Option		"Tapping"		"true"
+	Option		"MiddleEmulation"	"true"
+	Option		"TappingButtonMap"	"lrm"
+	Option		"TappingDrag"		"true"
+EndSection
